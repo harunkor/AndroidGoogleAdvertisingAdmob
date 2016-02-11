@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGoogleAdvertisingAdmob</string>
+   
+    
+    <string name="admob_showIntersitial_ad_unit_id">ca-app-pub-2424452880207945/4829009107</string>
+    
+     <string name="admob_banner_ad_unit_id">ca-app-pub-5205369465727864/6536067597</string>
+    
+
+</resources>
