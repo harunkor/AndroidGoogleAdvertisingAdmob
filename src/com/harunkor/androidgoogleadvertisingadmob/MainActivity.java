@@ -21,7 +21,7 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 		btn=(Button)findViewById(R.id.button1);
 		
-        View view=getWindow().getDecorView().getRootView();
+        view=getWindow().getDecorView().getRootView();
         
         
         Admob.createLoadBanner(getApplicationContext(), view);
